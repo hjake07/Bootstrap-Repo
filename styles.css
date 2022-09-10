@@ -28,4 +28,7 @@ span {
 h1 {
     font-size: 60px;
 }
-
+i {
+    font-size: 10px;
+    width: 10px;
+}
